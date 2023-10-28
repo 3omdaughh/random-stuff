@@ -1,0 +1,5 @@
+getTotal() is a small project I created when I was bored at home. In this program, you will enter the quantity of products that you have bought from the supermarket, followed by the price for each piece. The application will then calculate the total price.
+
+I know we can create the same program with fewer lines of code, but I wanted to use vectors (FIRST DAY USING VECTORS, BTW), so I took my space.
+
+Thanks for your attention ;)"
