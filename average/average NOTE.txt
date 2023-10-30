@@ -1,0 +1,5 @@
+average is a small project I created in CS102 section. In this program, you will ask about the quantity of the numbers you want to enter and then the program will store it in a variable call quantity after that the program will ask you about the numbers you want to enter if you enter a character or a negative number or what ever you will input the program will accept only positive numbers, then the program will calculate the average of all numbers and print it. 
+
+I know we can create the same program with fewer lines of code, but I wanted to use vectors (FIRST DAY USING VECTORS, BTW), so I took my space.
+
+Thanks for your attention ;)
