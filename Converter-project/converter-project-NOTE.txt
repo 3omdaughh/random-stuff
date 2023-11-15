@@ -1,0 +1,1 @@
+ This C++ program is like a small calculater that only job do is to convert from decimal base to other number system bases, by asking user to enter decimal number and then the application ask the user for what number system he want to convert to, then the application will convert it automaticlly after the user input.
