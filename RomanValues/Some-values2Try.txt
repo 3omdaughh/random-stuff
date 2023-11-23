@@ -1,0 +1,12 @@
+Here is some values to try
+1-
+Input:"III"
+Output: 3
+
+2-
+Input:"LVIII"
+Output: 58
+
+3-
+Input:"MCMXCIV"
+Output: 1994
