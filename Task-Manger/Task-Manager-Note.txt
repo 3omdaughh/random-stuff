@@ -1,0 +1,7 @@
+Hello, today we have a program called Task Manager, to not waste time.
+This program is like a to-do list; you will type your tasks as follows (Name, Category, Deadline),
+and the program will store this data in its storage.
+So, when you want to remember what you need to do, you will basically open the app and recall your tasks.
+
+I know the program is not perfect yet to use, but I will add new features ASAP.
+Have a nice day ;)
