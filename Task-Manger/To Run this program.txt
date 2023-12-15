@@ -1,2 +1,0 @@
-To run this program you will need a C++ compailer (bulit in in linux, BTW), to check if you have a C++ compailer or not, open terminal and type (g++ --version)
-anyway to run open terminal in file location and type (g++ -o task_manager Task.h TaskManager.h TaskManager.cpp main.cpp), Then (./task_manager), and hola.
