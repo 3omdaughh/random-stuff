@@ -1,1 +1,0 @@
-That is a simple X/O game, this game was an assignment for a friend for me, and he wanted my help so I helped him in it.
